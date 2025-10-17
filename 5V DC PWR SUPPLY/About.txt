@@ -1,0 +1,1 @@
+230V AC mains to 5V Regulated DC power supply - simple circuit. KiCAD project files and its output layout files are included
